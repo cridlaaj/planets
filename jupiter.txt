@@ -1,0 +1,3 @@
+ Experiments to be carried out when reached jupiter
+
+- send probe down to scan atmospheric abundances
